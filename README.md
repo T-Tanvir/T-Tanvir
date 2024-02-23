@@ -19,16 +19,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/t_tanvir"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="t_tanvir" /></a><a href="https://ko-fi.com/t_tanvir"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="t_tanvir" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-tanvir&show_icons=true&locale=en&layout=compact" alt="t-tanvir" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-tanvir&show_icons=true&locale=en" alt="t-tanvir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t-tanvir&" alt="t-tanvir" /></p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T-Tanvir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-</div>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=T-Tanvir&theme=flat&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=T-Tanvir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
