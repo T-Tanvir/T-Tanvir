@@ -7,8 +7,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=T-Tanvir&theme=flat&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t-tanvir" alt="t-tanvir" /></a> </p>
-
 - 🌱 I’m currently learning **JS, Vue and Nuxt**
 
 <h3 align="left">Connect with me:</h3>
