@@ -1,7 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 
 <h1 align="center">Hi 👋, I'm Tanvir</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <img align="right" alt="Coding" width="330px" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hgsvsifadbe97byyr3zaw9ry1wqarx4c5cjujqyk&amp;rid=giphy.gif&amp;ct=g">
 
