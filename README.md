@@ -24,3 +24,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-tanvir&show_icons=true&locale=en" alt="t-tanvir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t-tanvir&" alt="t-tanvir" /></p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=T-Tanvir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=T-Tanvir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
